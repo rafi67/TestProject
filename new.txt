@@ -4,3 +4,4 @@ Hi
 Hey
 What's up?
 test case
+added another line by user 1
