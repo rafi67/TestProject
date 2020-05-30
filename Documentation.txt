@@ -1,3 +1,0 @@
-Requirements:
-IDE: Intellij Idea Ultimate
-JDK-14 
