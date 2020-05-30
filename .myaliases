@@ -1,0 +1,5 @@
+alias gc="git commit"
+alias gs="git status"
+alias ga="git add"
+alias gp="git push origin master"
+alias gpl="git pull origin master"
