@@ -7,3 +7,4 @@ test case
 added another line by user 1
 added by user2
 comment by user 2
+comment by user 1
